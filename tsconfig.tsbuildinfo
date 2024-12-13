@@ -1,0 +1,1 @@
+{"root":["./src/app.ts","./src/index.ts","./src/controllers/livros.controller.ts","./src/models/clienteModel.ts","./src/prisma/client.ts","./src/router/livros.routes.ts","./src/router/routes.ts","./src/types/livro.type.ts","./src/utils/TratamentoErros.ts"],"version":"5.7.2"}
